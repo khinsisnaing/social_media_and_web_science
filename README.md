@@ -30,7 +30,7 @@ This study employed several data analysis tools, including:
 
 ### Author:
 - Khin Sis Naing
-- Social Media and Web Science 
+- UFCFJJ-15-M - Social Media and Web Science 
 - M.Sc. Information Technology
 - University of the West of England, Bristol, United Kingdom
 
