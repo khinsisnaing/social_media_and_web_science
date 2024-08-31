@@ -38,4 +38,4 @@ This study employed several data analysis tools, including:
 ### Contact Information:
 For any questions or further inquiries, please contact:
 Email: khinsisnaing.ksn@gmail.com
-LinkedIn: Khin Sis Naing || https://www.linkedin.com/khin-sis-naing-995280188/
+LinkedIn: Khin Sis Naing || https://www.linkedin.com/in/khin-sis-naing-995280188/
